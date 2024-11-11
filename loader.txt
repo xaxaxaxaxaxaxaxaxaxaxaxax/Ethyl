@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xaxaxaxaxaxaxaxaxaxaxaxax/Ethyl/refs/heads/main/%E8%B2%AA%E6%AC%B2%E8%B2%AA%E6%AC%B2"))()'
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xaxaxaxaxaxaxaxaxaxaxaxax/Ethyl/refs/heads/main/貪欲貪欲"))()'
