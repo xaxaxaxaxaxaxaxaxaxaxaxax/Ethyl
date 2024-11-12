@@ -1,1 +1,2 @@
+local ethyl_loader_key = "YOUR KEY HERE";
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xaxaxaxaxaxaxaxaxaxaxaxax/Ethyl/refs/heads/main/loader-obfuscated.txt"))()
